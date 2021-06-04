@@ -1,6 +1,5 @@
 from datetime import datetime
-import pickle
-import codecs
+
 
 class Wydatek:
     def __init__(self, nazwa, kwota, data, typ="t"):
